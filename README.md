@@ -11,9 +11,13 @@ This project analyzes customer churn in a telecom company to identify the key fa
 - Build an interactive dashboard for business decision-making.
 ## 🛠️ Tools & Technologies
 Tool	Purpose
+
 Excel	= Initial data inspection
+
 Power = Query	Data cleaning & transformation
+
 DAX	KPI = calculations & custom measures
+
 Power BI =	Dashboard development & visualization
 ## 📂 Dataset
 
