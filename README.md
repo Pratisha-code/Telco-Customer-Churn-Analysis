@@ -22,32 +22,53 @@ Dataset: Telco Customer Churn
 Key Columns
 
 CustomerID
+
 Gender
+
 SeniorCitizen
+
 Partner
+
 Dependents
+
 Tenure
+
 PhoneService
+
 InternetService
+
 OnlineSecurity
+
 TechSupport
+
 Contract
+
 PaymentMethod
+
 MonthlyCharges
+
 TotalCharges
+
 Churn
 ## 🧹 Data Cleaning
-Removed missing values
-Corrected data types
-Handled blank records
-Created calculated measures using DAX
-Verified data consistency
+Removed missing values,
+Corrected data types,
+Handled blank records,
+Created calculated measures using DAX,
+Verified data consistency,
+
 📊 KPI Metrics
+
 👥 Total Customers
+
 ❌ Churned Customers
+
 ✅ Active Customers
+
 📈 Churn Rate %
+
 💰 Average Monthly Charges
+
 📈 Dashboard Visualizations
 - Churn by Gender (Donut Chart)
 - Churn by Contract Type (Column Chart)
@@ -59,15 +80,23 @@ Verified data consistency
 - Interactive Slicers
 ## 📌 Key Insights
 Month-to-month contracts have the highest churn rate.
+
 Customers paying through Electronic Check show the highest churn.
+
 Fiber Optic users churn more than DSL users.
+
 Customers without Online Security are more likely to churn.
+
 New customers (1–12 months tenure) have the highest churn probability.
 ## 📊 DAX Measures Used
 Total Customers
+
 Churned Customers
+
 Active Customers
+
 Churn Rate %
+
 Average Monthly Charges
 ## ✨ Dashboard Features
 - Interactive slicers
@@ -80,12 +109,16 @@ Average Monthly Charges
 This dashboard helps businesses:
 
 Reduce customer churn
+
 Improve retention strategies
+
 Identify high-risk customers
+
 Support data-driven decision-making
 ## 📷 Dashboard Preview
 
-"C:\Users\prati\OneDrive\Pictures\Screenshots 1\Screenshot 2026-07-28 130925.png"
+<img width="827" height="598" alt="Screenshot 2026-07-28 130925" src="https://github.com/user-attachments/assets/a6e6646f-248d-47bb-a27b-c7f0459c9592" />
+
 
 👩‍💻 Author
 
